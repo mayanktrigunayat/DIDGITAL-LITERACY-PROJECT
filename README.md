@@ -1,4 +1,4 @@
-# DIDGITAL-LITERACY-PROJECT
+# DIGITAL-LITERACY-PROJECT
 # digital-literacy-project
 # Project Overview
 This is my project for the course Digital literacy with the Course code CSE0001.
